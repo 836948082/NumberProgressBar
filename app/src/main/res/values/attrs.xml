@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NumberProgressBar">
+        <attr name="Numbercolor" format="color"/>
+        <attr name="NumberSize" format="dimension" />
+        <attr name="NumberVisibility" format="boolean" />
+        <attr name="NumProHeight" format="dimension" />
+    </declare-styleable>
+
+</resources>
